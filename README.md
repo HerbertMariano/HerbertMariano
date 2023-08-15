@@ -13,7 +13,7 @@ I have a background in Time Series Forcast, and I'm enthusiastic about NLP. I en
 - Mathematics: Mathematics is the language of the universe, and I enjoy diving into its intricacies.
 - Science: Exploring the natural world and understanding its underlying principles captivate me.
 
-## Ferramentas e Tecnologias
+## Tools
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
 
