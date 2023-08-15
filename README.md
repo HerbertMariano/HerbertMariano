@@ -15,7 +15,7 @@ I have a background in Time Series Forcast, and I'm enthusiastic about NLP. I en
 
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
 
 ## Let's Connect
 <div>
@@ -30,4 +30,4 @@ Feel free to explore my repositories, contributions, and projects. Don't hesitat
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertMariano&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HerbertMariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HerbertMariano/HerbertMariano/blob/output/github-contribution-grid-snake.svg)
