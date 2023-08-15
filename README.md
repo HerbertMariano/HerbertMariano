@@ -1,36 +1,35 @@
-<h1 align="center">Hi 👋, I'm Herbert Mariano</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
+# Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herbertmariano&label=Profile%20views&color=0e75b6&style=flat" alt="herbertmariano" /> </p>
+I'm Herbert, a Data Scientist with a keen interest in NLP and Time Series. Welcome to my GitHub profile!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbertmariano" alt="herbertmariano" /></a> </p>
+## About Me
 
-- 🌱 I’m currently learning **Python, Scikit-Learn, SQL, C, PowerBI**
+I have a background in Time Series Forcast, and I'm enthusiastic about NLP. I enjoy exploring the intersection of Deep Learning and NLP, and I'm constantly seeking opportunities to learn and grow.
 
-- 👨‍💻 All of my projects are available at [https://github.com/HerbertMariano](https://github.com/HerbertMariano)
+## My Interests
 
-- 📫 How to reach me **herbe06@gmail.com**
+- Data Science: I'm fascinated by the power of data to uncover insights and drive decision-making.
+- Computer Science: I love tackling complex problems and creating efficient, elegant solutions through code.
+- Mathematics: Mathematics is the language of the universe, and I enjoy diving into its intricacies.
+- Science: Exploring the natural world and understanding its underlying principles captivate me.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/herbert-mariano/](https://www.linkedin.com/in/herbert-mariano/)
+## Ferramentas e Tecnologias
 
-<p align="left">
-</p>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" />          
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Let's Connect
+<div>
+<a href = "mailto:herbe06@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/herbert-mariano/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herbertmariano&show_icons=true&locale=en&layout=compact" alt="herbertmariano" /></p>
+Feel free to explore my repositories, contributions, and projects. Don't hesitate to get in touch if you'd like to collaborate or discuss anything related to Data Science!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herbertmariano&show_icons=true&locale=en" alt="herbertmariano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herbertmariano&" alt="herbertmariano" /></p>
+<div>
+<a href="https://github.com/HerbertMariano">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertMariano&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HerbertMariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
