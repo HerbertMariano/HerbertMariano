@@ -4,4 +4,4 @@
 <a href="https://www.linkedin.com/in/herbert-mariano/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/HerbertMariano/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/HerbertMariano)](https://githubtrends.io)
